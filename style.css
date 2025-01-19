@@ -1,0 +1,96 @@
+#login{
+    color: green;
+    margin-right: 40px;
+    margin-top: 15px;
+}
+
+#joinbutton{
+    background-color: green;
+    color: white;
+    margin-right: 30px;
+}
+#maincontainer{
+    display: flex;
+    flex-wrap: wrap;
+}
+#high{
+    font-size: 4rem;
+}
+#maintext{
+    margin-left: 40px;
+}
+#boyimage{
+    background-color: rgb(218, 247, 238);
+    margin-left: 450px;
+}
+#button1{
+    background-color: rgb(11, 119, 11);
+    color: white;
+    border: 2px solid rgb(11, 119, 11);
+}
+#button2{
+    background-color: white;
+    color:  rgb(11, 119, 11);
+    border: 2px solid  rgb(11, 119, 11);
+    margin-top: 40px;
+    margin-left: 10px;
+}
+
+#color{
+    color:  rgb(11, 119, 11);
+}
+.card{
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 2000px;
+}
+.card:hover{
+    background-color: rgb(83, 128, 83);
+    color: white;
+}
+#promotesection1{
+    display: flex;
+    flex-wrap: wrap;
+}
+#girl{
+    margin-left: 250px;
+}
+#headingmargin{
+    margin-top: 50px;
+    font-weight: bolder;
+}
+#paramargin{
+    margin-top: 50px;
+}
+#giving{
+   margin-top:  60px;
+   color: green;
+   font-size: 1rem;
+}
+#promotesection2{
+    display: flex;
+    flex-wrap: wrap;
+}
+#video{
+    margin-left: 250px;
+}
+#headingmargin2{
+    margin-top: 50px;
+    font-weight: bolder;
+    margin-left: 200px;
+}
+#paramargin2{
+     margin-top: 50px;
+     margin-left: 200px;
+}
+#giving2{
+    margin-left: 200px;
+   margin-top:  100px;
+   color: green;
+   font-size: 1rem;
+}
+
+#text2{
+    margin-left: 200px;
+}
